@@ -1,0 +1,202 @@
+{
+ "updated": "2026-09-27T11:42:28Z",
+ "templates": [
+  {
+   "id": "matin",
+   "name": "Matin",
+   "start": "07:00",
+   "end": "13:00",
+   "color": "#E8A33D",
+   "order": 1
+  },
+  {
+   "id": "aprem",
+   "name": "Après-midi",
+   "start": "13:00",
+   "end": "19:30",
+   "color": "#7A5AF8",
+   "order": 2
+  },
+  {
+   "id": "journee",
+   "name": "Journée",
+   "start": "10:00",
+   "end": "16:00",
+   "color": "#1F8F7A",
+   "order": 3
+  }
+ ],
+ "events": {
+  "mujqm1i14r07ic": {
+   "date": "2026-09-28",
+   "start": "10:00",
+   "end": "17:00",
+   "title": "Journée",
+   "color": "#1F8F7A",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqnelk4a7tes": {
+   "date": "2026-09-29",
+   "start": "07:00",
+   "end": "13:15",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqns2ni5l5x7": {
+   "date": "2026-09-30",
+   "start": "16:00",
+   "end": "19:30",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqobzxg3po31": {
+   "date": "2026-10-01",
+   "start": "07:00",
+   "end": "13:00",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": "matin",
+   "note": ""
+  },
+  "mujqoh0va22378": {
+   "date": "2026-10-02",
+   "start": "13:00",
+   "end": "19:00",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqoyyebp9pdg": {
+   "date": "2026-10-03",
+   "start": "09:00",
+   "end": "17:00",
+   "title": "Journée",
+   "color": "#1F8F7A",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqqvijnrh4rf": {
+   "date": "2026-10-25",
+   "start": "11:00",
+   "end": "17:00",
+   "title": "1an de Liya",
+   "color": "#8A94A6",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqrd7zf3r2ib": {
+   "date": "2026-10-06",
+   "start": "12:00",
+   "end": "19:30",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqrp1ubjivce": {
+   "date": "2026-10-07",
+   "start": "12:00",
+   "end": "19:00",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqs5mjclj5tx": {
+   "date": "2026-10-08",
+   "start": "07:00",
+   "end": "14:15",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqtazdyjwyal": {
+   "date": "2026-10-09",
+   "start": "07:00",
+   "end": "14:30",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqtoa13ayov0": {
+   "date": "2026-10-10",
+   "start": "12:00",
+   "end": "19:30",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqu0mx6fqd6x": {
+   "date": "2026-10-12",
+   "start": "09:00",
+   "end": "17:00",
+   "title": "Journée",
+   "color": "#1F8F7A",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqumifog0toa": {
+   "date": "2026-10-13",
+   "start": "07:00",
+   "end": "12:00",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": null,
+   "note": ""
+  },
+  "mujquxnwk6f2lv": {
+   "date": "2026-10-14",
+   "start": "15:45",
+   "end": "19:30",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqvdmcj5yhoh": {
+   "date": "2026-10-15",
+   "start": "07:00",
+   "end": "13:30",
+   "title": "Matin",
+   "color": "#E8A33D",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqw3mz02h5qe": {
+   "date": "2026-10-16",
+   "start": "14:30",
+   "end": "19:00",
+   "title": "Après-midi",
+   "color": "#7A5AF8",
+   "tpl": null,
+   "note": ""
+  },
+  "mujqwnv4q9jskx": {
+   "date": "2026-10-17",
+   "start": "08:00",
+   "end": "17:00",
+   "title": "Journée",
+   "color": "#1F8F7A",
+   "tpl": null,
+   "note": ""
+  },
+  "mujr1ap0o3np3m": {
+   "date": "2026-09-29",
+   "start": "14:30",
+   "end": "17:30",
+   "title": "Fanny Santhoire",
+   "color": "#8A94A6",
+   "tpl": null,
+   "note": ""
+  }
+ }
+}
